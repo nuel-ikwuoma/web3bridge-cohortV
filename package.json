@@ -1,0 +1,23 @@
+{
+  "name": "cohort-v",
+  "version": "1.0.0",
+  "description": "This repository is meant to keep track of my learnings during the web3bridge  cohortV internship, where i learnt a lot about web3, blockchain  and  decentralized application development.",
+  "main": "Fintech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuel-ikwuoma/web3bridge-cohortV.git"
+  },
+  "keywords": [],
+  "author": "nuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuel-ikwuoma/web3bridge-cohortV/issues"
+  },
+  "homepage": "https://github.com/nuel-ikwuoma/web3bridge-cohortV#readme",
+  "dependencies": {
+    "ethers": "^5.4.6"
+  }
+}
